@@ -9,7 +9,7 @@
    
 ## Description
 
-*This is a MySql Database and CMS-style Blog built using Model View Controller (MVC) paradigm. Built using MySQL2, Express, Sequelize, Bulma, Handlebars and dotenv*
+This is a MySql Database and CMS-style blog that is built using the Model View Controller (MVC), as well as MySQL2, Express, Sequelize, Handlebars, Dontnv and Bulma.
 
 ## Application Deployment
 
@@ -31,7 +31,7 @@ DB_PW='XXX'
 ```
 
 ## Contributing
-:octocat: [Theodore Shishkovskiy](https://github.com/TheodoreShishkovskiy)💻
+💻[Theodore Shishkovskiy](https://github.com/TheodoreShishkovskiy)💻
 
 ## Questions
 ✉️ Contact me with any questions: [email](mailto:tmshishkovskiy@gmail.com) , [GitHub](https://github.com/TheodoreShishkovskiy)<br />
