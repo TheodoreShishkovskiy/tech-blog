@@ -13,7 +13,7 @@
 
 ## Application Deployment
 
-https://git.heroku.com/tech-blog54321.git
+https://tech-blog54321.herokuapp.com/
 
 ## Application Screenshot
 
