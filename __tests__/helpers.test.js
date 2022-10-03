@@ -1,5 +1,6 @@
 const {format_date} = require('../utils/helpers');
 
+// Created by the help of David Kravchuk looking at a similar project
 // Creating a test to format_date() take Date() objects and returns the date in MM/DD/YYYY format
 test('format_date() returns a date string', () => {
     const date = new Date('2020-03-20 16:12:03');
